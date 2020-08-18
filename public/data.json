@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "moomba",
+        "genre": "punk",
+        "type": "dj",
+        "city": "madrid",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 654321987,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+    },
+
+    {
+        "id": 2,
+        "name": "futuras exnovias",
+        "genre": "rock",
+        "type": "band",
+        "city": "pamplona",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 654378568,
+        "description": "Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+    },
+    {
+        "id": 3,
+        "name": "listeria colectiva",
+        "genre": "punk",
+        "type": "band",
+        "city": "madrid",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 654321945,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+    },
+    {
+        "id": 4,
+        "name": "sindi entes",
+        "genre": "soul",
+        "type": "dj",
+        "city": "tudela",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 654321989,
+        "description": "Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+    },
+    {
+        "id": 5,
+        "name": "concha tisfaier",
+        "genre": "indie",
+        "type": "dj",
+        "city": "ribadesella",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 654561987,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+    },
+    {
+        "id": 6,
+        "name": "the marcia anas",
+        "genre": "punk",
+        "type": "band",
+        "city": "madrid",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 654555987,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat."
+    },
+    {
+        "id": 7,
+        "name": "ana tomía",
+        "genre": "indie",
+        "type": "dj",
+        "city": "barcelona",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 654891987,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+    },
+    {
+        "id": 8,
+        "name": "lucia",
+        "genre": "punk",
+        "type": "dj",
+        "city": "madrid",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 654321987,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+    },
+    {
+        "id": 9,
+        "name": "lucia",
+        "genre": "punk",
+        "type": "dj",
+        "city": "madrid",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 654321987,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+    },
+    {
+        "id": 10,
+        "name": "charking party",
+        "genre": "punk",
+        "type": "band",
+        "city": "granada",
+        "image": "https://whatever.com",
+        "link": "https://www.moomba.com",
+        "tlf": 600021987,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+    }
+   
+]
